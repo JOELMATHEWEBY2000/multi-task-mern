@@ -15,7 +15,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://task-management-system.vercel.app"
+  "https://multi-task-mern.vercel.app"
 ];
 
 app.use(
