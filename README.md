@@ -103,3 +103,7 @@ Authorization: Bearer <JWT_TOKEN>
 **Joel Mathew Eby**
 
 GitHub: https://github.com/JOELMATHEWEBY2000
+
+Vercel: https://multi-task-mern.vercel.app
+
+Render: https://task-management-api-7dmo.onrender.com/api
